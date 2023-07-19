@@ -1,0 +1,13 @@
+IMPORT THE DATABASE
+1.In phpMyAdmin, click on the "Database" tab 
+2.Enter the name of the database "contacts" in the "create database" field and click the "create" button
+3.Once the database is created, click on its name to the left sidebar to select it
+4.On the top menu, click on the "import" tab
+5.Click the "choose file" button and select the "contacts file"
+6.Click the "Go" button 
+----------------------------------------------------------------
+TO ACCESSES FILES 
+1.Make sure you have started the apache and MySQL in the xampp control panel  
+2.Place all the files in xampp's htdocs folder/directory
+3.Open web browser and enter "localhost/index.php in the address bar
+-------------------------------------------------------------------------------------
